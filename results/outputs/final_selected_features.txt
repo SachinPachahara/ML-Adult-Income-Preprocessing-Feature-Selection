@@ -1,0 +1,11 @@
+Final selected features
+========================
+- education-num
+- age
+- hours-per-week
+- capital-gain
+- relationship
+- marital-status
+- education
+- occupation
+- sex

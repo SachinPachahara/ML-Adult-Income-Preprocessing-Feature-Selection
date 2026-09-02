@@ -1,0 +1,8 @@
+Parameter,Before,After
+Records,32561,32537
+Features,14,9
+Missing Values,4262,0
+Duplicate Records,24,0
+Categorical Features,8,5
+"Potential Outliers (capital-gain, IQR)",2712,2712
+Selected Features,14,9

@@ -1,0 +1,15 @@
+Feature,Type,Evidence,Decision,Justification
+education-num,Numerical,Pearson |r|=0.3314; ANOVA F=3210.48,Keep,Strong combined training-set evidence
+age,Numerical,Pearson |r|=0.2334; ANOVA F=1499.05,Keep,Strong combined training-set evidence
+hours-per-week,Numerical,Pearson |r|=0.2293; ANOVA F=1444.93,Keep,Strong combined training-set evidence
+capital-gain,Numerical,Pearson |r|=0.2237; ANOVA F=1371.39,Keep,Strong combined training-set evidence
+capital-loss,Numerical,Pearson |r|=0.1522; ANOVA F=616.88,Remove,Lower combined rank than retained numerical features
+fnlwgt,Numerical,Pearson |r|=0.0114; ANOVA F=3.41,Remove,Lower combined rank than retained numerical features
+relationship,Categorical,Chi-square=5452.56; MI=0.1688,Keep,Strong combined training-set evidence
+marital-status,Categorical,Chi-square=5281.19; MI=0.1588,Keep,Strong combined training-set evidence
+education,Categorical,Chi-square=3480.94; MI=0.0918,Keep,Strong combined training-set evidence
+occupation,Categorical,Chi-square=3103.16; MI=0.0896,Keep,Strong combined training-set evidence
+sex,Categorical,Chi-square=1188.14; MI=0.0363,Keep,Strong combined training-set evidence
+workclass,Categorical,Chi-square=816.26; MI=0.0211,Remove,Lower combined rank than retained categorical features
+race,Categorical,Chi-square=279.08; MI=0.0089,Remove,Lower combined rank than retained categorical features
+native-country,Categorical,Chi-square=259.06; MI=0.0088,Remove,Lower combined rank than retained categorical features
