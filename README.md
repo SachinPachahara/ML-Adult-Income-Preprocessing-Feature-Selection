@@ -7,7 +7,7 @@
 | Sachin Kumar | CSJMA23001390037 | Dataset, EDA, coordination |
 | Rohit Singh | CSJMA23001390036 | Data preprocessing |
 | Shubham Kumar Gupta | CSJMA23001390043 | Feature selection |
-| Jay Singh | CSJMA23001390018 | Visualization, documentation, GitHub |
+| Jay Singh papa | CSJMA23001390018 | Visualization, documentation, GitHub |
 
 ### Objective
 This project studies data preprocessing and feature selection using the Adult Census Income dataset.
